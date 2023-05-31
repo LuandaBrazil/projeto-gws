@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "vwfonts-regular";
+    src: url(/assets/fonts/);
+    
+}
+@font-face {
+    font-family: "vwfonts-bold";
+    src: url(/assets/fonts/VWHeadBold.otf);
+}

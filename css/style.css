@@ -1,0 +1,123 @@
+*{
+    margin: 88;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.container {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-bottom: 76px;
+}
+
+.hamburguer {
+   display: flex;
+   width: 146px;
+   height: 75px;
+   align-items: center;
+   justify-content: space-between;
+
+
+}
+.bom-dia{
+    border: 1px solid black;
+    border-radius: 17px;
+    display: flex;
+    width: 481px;
+    height: 76px;
+    padding-left: 52px;
+    align-items: center;
+   
+
+}
+.bom-dia span {
+    font-family: "vwfonts-bold";
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: -0.05em;
+
+}
+
+.squads {
+    width: 909px;
+    height: 76px;
+    border: 1px solid black;
+    border-radius: 17px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 36px;
+    align-items: center;
+}
+
+.squads span{
+    font-family: "vwfonts-bold";
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: -0.05em;
+
+}
+
+.cabecalho02{
+    width: 100%;
+    height: 76px;
+    display: flex;
+    gap: 13px;
+    
+}
+main .cabecalho02 button {
+    width: 328px;
+    height: 76px;
+    border-radius: 17px;
+    border: none;
+    font-family: "vwfonts-bold";
+    font-size: 24px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: -0.05em;
+    background: linear-gradient(90.76deg, #041861 -9.73%, #4BABE8 53.67%);
+
+    
+}
+main .squad-infotec{
+    width: 409px;
+    height: 76px;
+    border: 1px solid black;
+    border-radius: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+   
+main .squad-infotec span {
+    font-family: "vwfonts-bold";
+    font-size: 24px;
+    text-transform: uppercase;
+    
+}
+
+    main .identificador{
+    width: 409px;
+    height: 76px;
+    border: 1px solid black;
+    border-radius: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+
+main .identificador{
+    font-family: "vwfonts-bold";
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
